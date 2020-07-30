@@ -1,0 +1,18 @@
+.video_container{
+	text-align: center;
+}
+
+
+.title_container{
+	margin-left: 32.5em;
+	width:1000px;
+    height:auto;
+	border: 1px solid #ccc;
+}
+
+.comments_container{
+	margin-left: 32.5em;
+	width:1000px;
+    height:auto;
+	border: 1px solid #ccc;
+}

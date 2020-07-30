@@ -1,0 +1,10 @@
+.container {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:50em;
+    height:35em;
+    margin-top: -20em; /*set to a negative number 1/2 of your height*/
+    margin-left: -25em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+}
